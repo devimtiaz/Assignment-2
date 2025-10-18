@@ -1,0 +1,11 @@
+name=input("enter a name:")
+place=input("enter a place:")
+object=input("enter an object:")
+feeling=input("enter a feeling:")
+print(name+place+object+feeling)
+
+text=input("enter any text:")
+print(text.__len__())
+print( text.upper())
+print( text[0])
+print( text[-1] )
